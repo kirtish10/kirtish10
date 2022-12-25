@@ -29,11 +29,19 @@ Here are some ideas to get you started:
 
 - 👨‍💻 I am currently working as Syatem Analyst in Amdocs my work there is to deliver the customer request quickly and Effiently with inhouse Amdocs Tools and DB. My goal to be a full-stack developer with focus on designing & developing distributed, highly available & low latency software components. Experienced in micro-services and NoSQL technolgies.
 
-- 🚀 I love to innovate and do rapid prototyping of IoT solutions and tinker with drones & raspberry-pi.
+- 🚀 I love to innovate and do rapid prototyping of my ideas.
 
-- 🌱 Learning dart & planning to learn GoLang.
+- 🌱 Learning React & planning to learn GoLang.
 
-- ⚡ I love hackathons.
+- ⚡ I love weekend projects.
+
+- Proficient in languages such as Java, Python, and JavaScript
+
+- Experienced in Mobile development using frameworks such as Flutter and Android Java
+
+- Skilled in database design and SQL and NoSQL DBs
+
+- Comfortable working with version control systems such as Git
 
 <h2 align="center">Tech Stack</h2>
 <p align="center">
