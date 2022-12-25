@@ -17,17 +17,17 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hey Folks! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Akshit Mahajan</h1>
+<h1 align="center">Hey Folks! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Kirtish Barmecha</h1>
 
-<h3 align="center">Software Engineer progressing into Fullstack Dev</h3>
+<h3 align="center">System Analyst progressing into Fullstack Dev</h3>
 
 <div align=center>
-  <a href="https://www.linkedin.com/in/ak1801/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
-  <a href="https://twitter.com/aksh_1801"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
+  <a href="https://www.linkedin.com/in/kirtishbarmecha/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
+  <a href="https://twitter.com/kirtishbarmecha"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
   <br><br>
 </div>
 
-- 👨‍💻 I am Backend Engineer with focus on designing & developing distributed, highly available & low latency software components. Experienced in micro-services and NoSQL technolgies.
+- 👨‍💻 I am currently working as Syatem Analyst in Amdocs my work there is to deliver the customer request quickly and Effiently with inhouse Amdocs Tools and DB. My goal to be a full-stack developer with focus on designing & developing distributed, highly available & low latency software components. Experienced in micro-services and NoSQL technolgies.
 
 - 🚀 I love to innovate and do rapid prototyping of IoT solutions and tinker with drones & raspberry-pi.
 
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <h2 align="center">Github Stats</h2>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshitmahajan&count_private=true&show_icons=true&theme=radical&line_height=27" 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kirtish10&count_private=true&show_icons=true&theme=radical&line_height=27" 
 </a>
 <p align="center">
 Footer
