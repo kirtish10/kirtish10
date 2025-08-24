@@ -2,11 +2,7 @@
 
 <h3 align="center">Senior Associate Consultant at Infosys | Aspiring Full Stack Developer</h3>
 
-<div align="center">
   <a href="https://www.linkedin.com/in/kirtishbarmecha/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="LinkedIn" alt="LinkedIn" width="30"/></a>
-  <a href="https://twitter.com/kirtishbarmecha"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter" width="40"/></a>
-  <br><br>
-</div>
 
 ### 👨‍💻 About Me  
 - Currently working at **Infosys** as a **Senior Associate Consultant**, contributing to the **LinkedIn Job Ingestion Project**.  
