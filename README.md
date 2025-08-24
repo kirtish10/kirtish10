@@ -82,9 +82,3 @@ Web Scraping | Scrapy | XML | Shell Scripting
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"></code>
 </p>
 
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kirtish10&count_private=true&show_icons=true&theme=radical&line_height=27"/>
-</p>
